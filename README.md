@@ -13,13 +13,17 @@
 
 ## 👨‍💻 About Me
 
-DevOps Engineer focused on building production-grade infrastructure that is automated, secure, and cost-efficient.
+DevOps Engineer with a relentless focus on bridging the gap between development agility and production stability. I specialize in building cloud-native infrastructure that doesn't just "work," but scales securely and efficiently.
 
-- 🚀 Built a full microservices platform on **AWS EKS** using **Terraform**, **ArgoCD**, and **GitHub Actions** — from blank account to production in 16 days
-- 🔐 Security-first mindset — zero static credentials, secrets never in Git, per-service database isolation
-- 💰 Cost-conscious infrastructure — **Karpenter Spot provisioning**, right-sized managed services, no idle capacity
-- 🔄 GitOps practitioner — every deployment is declarative, auditable, and automated
-- 📦 Believer in reusable patterns — one shared Helm chart serves all microservices
+What I bring to the table:
+
+Infrastructure as Code (IaC): Architecting modular Terraform frameworks that turn complex AWS environments into repeatable, version-controlled patterns.
+
+Automated Delivery: Orchestrating end-to-end GitOps pipelines using ArgoCD and GitHub Actions, ensuring consistent deployments with zero manual intervention.
+
+Production Hardening: Implementing zero-trust security (OIDC, Secrets Management) and cost-optimized compute (Karpenter/Spot) to balance performance with budget.
+
+Culture of Observability: Building stacks that prioritize proactive monitoring and rapid MTTR (Mean Time To Recovery).
 
 ---
 
