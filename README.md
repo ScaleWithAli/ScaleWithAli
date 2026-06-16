@@ -1,7 +1,8 @@
 <div align="center">
 
 # Hey, I'm Ali 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+CI%2FCD+%7C+IaC;Building+Production+Infrastructure)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;GitOps+%7C+CI%2FCD+%7C+IaC;I+Scale+Infrastructure)](https://git.io/typing-svg)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-hassan-1875b1411)
